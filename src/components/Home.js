@@ -2,15 +2,15 @@ import React from "react"
 import { Link } from "react-router-dom"
 import styles from "./Home.module.css"
 
-function Home() {
+export default function Home() {
   
   return (
     <section className={styles.home_section}>
       <div className={styles.text_container}>
         <p className={styles.name_styling} >Daniel Whittock</p>
         <p className={styles.jobtitle_styling}>Junior Developer</p>
-        <Link to="/portfolio">
-          <button className={styles.button_styling}>Portfolio</button>
+        <Link to="/projects">
+          <button className={styles.button_styling}>Projects</button>
         </Link>
       </div>
       <div className={styles.icon_container}>
@@ -34,4 +34,3 @@ function Home() {
   )
 }
 
-export default Home

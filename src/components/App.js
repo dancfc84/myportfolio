@@ -1,10 +1,9 @@
 import React from 'react'
 
-function App() {
+export default function App() {
   // ! Add your routes in here!
   return (
     <h1>Hello world!</h1>
   )
 }
 
-export default App

@@ -6,6 +6,8 @@ import Home from "./components/Home"
 import About from "./components/About"
 import Portfolio from "./components/Portfolio"
 import Navbar from "./components/Navbar"
+import Interests from "./components/Interests"
+import Skills from "./components/Skills"
 
 function App() {
   // ! 1) You need a router. You'll pretty always use BrowserRouter
@@ -19,7 +21,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
-        <Route path="/portfolio" element={<Portfolio/>} />
+        <Route path="/projects" element={<Portfolio/>} />
+        <Route path="/interests" element={<Interests/>} />
+        <Route path="/skills" element={<Skills/>} />
       </Routes>
     </Router>
   )

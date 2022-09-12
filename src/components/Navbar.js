@@ -17,13 +17,23 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav_item">
-              <Link to="/portfolio" className="navbar-item">
-                Portfolio
+              <Link to="/Projects" className="navbar-item">
+                Projects
               </Link>
             </li>
             <li className="nav_item">
               <Link to="/about" className="navbar-item">
                 About
+              </Link>
+            </li>
+            <li className="nav_item">
+              <Link to="/interests" className="navbar-item">
+                Interests
+              </Link>
+            </li>
+            <li className="nav_item">
+              <Link to="/skills" className="navbar-item">
+                Skills
               </Link>
             </li>
           </ul>
