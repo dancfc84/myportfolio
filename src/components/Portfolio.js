@@ -19,7 +19,7 @@ function Portfolio() {
               <h5>Solo Project - 2 weeks</h5>
               <div className={styles.links_container}>
                 <h5><a href="https://b00k-exchange.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a></h5>
-                <h5><a href="https://github.com/dancfc84/Project4_Front/" target="_blank" rel="noopener noreferrer">Readme</a></h5>
+                <h5><a href="https://github.com/dancfc84/Project4_Front/" target="_blank" rel="noopener noreferrer">ReadMe</a></h5>
               </div>
               <p className={styles.paragraph_card}>A fully responsive book exchange site, I built a full stack application with CRUD functionality using React, Flask, Python, postgreSQL, CSS and HTML. </p>
             </div>
@@ -33,7 +33,7 @@ function Portfolio() {
               <h5>Group Project - 2 weeks</h5>
               <div className={styles.links_container}>
                 <h5><a href="https://htrees.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a></h5>
-                <h5><a href="https://github.com/dancfc84/Project3_Front/" target="_blank" rel="noopener noreferrer">Readme</a></h5>
+                <h5><a href="https://github.com/dancfc84/Project3_Front/" target="_blank" rel="noopener noreferrer">ReadMe</a></h5>
               </div>
               <p className={styles.paragraph_card}>A job search site aimed at developers, a full-stack MERN application, it was built using React, Express.js, JavaScript, CSS and HTML. </p>
             </div>
@@ -47,7 +47,7 @@ function Portfolio() {
               <h5>Pair Programming - 1 week</h5>
               <div className={styles.links_container}>
                 <h5><a href="https://fish-watch.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a></h5>
-                <h5><a href="https://github.com/dancfc84/Project-2/" target="_blank" rel="noopener noreferrer">Readme</a></h5>
+                <h5><a href="https://github.com/dancfc84/Project-2/" target="_blank" rel="noopener noreferrer">ReadMe</a></h5>
               </div>
               <p className={styles.paragraph_card}>We built a React application which monitors fish stocks in the Atlantic Ocean using an external API. </p>
             </div>
@@ -60,7 +60,7 @@ function Portfolio() {
               <h5>Solo Project - 2 weeks</h5>
               <div className={styles.links_container}>
                 <h5><a href="https://dancfc84.github.io/Project_1/" target="_blank" rel="noopener noreferrer">Link</a></h5>
-                <h5><a href="https://github.com/dancfc84/Project_1/" target="_blank" rel="noopener noreferrer">Readme</a></h5>
+                <h5><a href="https://github.com/dancfc84/Project_1/" target="_blank" rel="noopener noreferrer">ReadMe</a></h5>
               </div>
               <p className={styles.paragraph_card}>I had one week to build a grid-based game using JavaScript, HTML and CSS. I wanted to challenge myself, so I chose Tetris. This project helped me deepen my knowledge of JavaScript.</p>
             </div>
