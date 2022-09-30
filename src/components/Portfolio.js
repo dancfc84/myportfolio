@@ -13,6 +13,19 @@ function Portfolio() {
       <div className={styles.portfolio_container} >
 
           <div className={styles.card}>
+            <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1664543916/Portfolio/t1nyurl_mb72pw.png" alt="Avatar"></img>
+            <div className={styles.container}>
+              <h4><b>T1ny URL</b></h4>
+              <h5>My First Solo Project - 1 week</h5>
+              <div className={styles.links_container}>
+                <h5><a href="https://t1ny-url.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a></h5>
+                <h5><a href="https://github.com/dancfc84/URLShortener" target="_blank" rel="noopener noreferrer">ReadMe</a></h5>
+              </div>
+              <p className={styles.paragraph_card}>A URL shortening website, built using React, Flask, Python, postgreSQL, CSS and HTML.</p>
+            </div>
+          </div>
+
+          <div className={styles.card}>
             <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1662138049/Portfolio/bookxchange_rb93rl.png" alt="Avatar"></img>
             <div className={styles.container}>
               <h4><b>Book Exchange</b></h4>
