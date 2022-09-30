@@ -13,7 +13,7 @@ function Portfolio() {
       <div className={styles.portfolio_container} >
 
           <div className={styles.card}>
-            <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1664543916/Portfolio/t1nyurl_mb72pw.png" alt="Avatar"></img>
+            <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1664545215/Portfolio/t1nyurl_oerblb.png" alt="Avatar"></img>
             <div className={styles.container}>
               <h4><b>T1ny URL</b></h4>
               <h5>My First Solo Project - 1 week</h5>
