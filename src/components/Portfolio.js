@@ -16,7 +16,7 @@ function Portfolio() {
             <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1664545215/Portfolio/t1nyurl_oerblb.png" alt="Avatar"></img>
             <div className={styles.container}>
               <h4><b>T1ny URL</b></h4>
-              <h5>My First Solo Project - 1 week</h5>
+              <h5>Solo Project - 1 week</h5>
               <div className={styles.links_container}>
                 <h5><a href="https://t1ny-url.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a></h5>
                 <h5><a href="https://github.com/dancfc84/URLShortener" target="_blank" rel="noopener noreferrer">ReadMe</a></h5>
@@ -67,7 +67,7 @@ function Portfolio() {
           </div>
 
           <div className={styles.card}>
-            <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1662138053/Portfolio/tetris_hgcpm6.png" alt="Avatar"></img>
+            <img src="https://res.cloudinary.com/dlguuhqej/image/upload/v1664546060/Portfolio/tetris_kxzr5n.png" alt="Avatar"></img>
             <div className={styles.container}>
               <h4><b>Tetris</b></h4>
               <h5>Solo Project - 2 weeks</h5>
